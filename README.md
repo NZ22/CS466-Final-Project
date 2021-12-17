@@ -6,4 +6,4 @@
 > python3 protein.py
 <p> Run the global alignment algorithm on the cytochrome b mitochondrion protein sequences for 20+ species in comparison to humans <p>
 <p><p>
-<p> Note: protein.py imports from global_alignment.py, please keep them in the same directory <p>
+<p> Note: protein.py imports from global_alignment.py, please keep them in the same directory. Both programs are designed to run in pure Python, no other packages are needed. <p>
